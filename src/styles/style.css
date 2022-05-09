@@ -9,3 +9,15 @@
   --brown: #b09a81;/* Коричневый */
   --blue: #1085c5;  /* Синий */
 }
+
+@font-face {
+  font-weight: 400;
+  font-family: "Open Sans";
+  src: url("../assets/fonts/OpenSans-Regular.ttf") format("ttf");
+}
+
+@font-face {
+  font-weight: 400;
+  font-family: "Neucha";
+  src: url("../assets/fonts/Neucha-Regular.ttf") format("ttf");
+}
