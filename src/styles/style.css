@@ -59,6 +59,7 @@ h3 {
   margin: 0 auto;
 }
 
+/* Header */
 .header {
   position: relative;
   /* height: 914px; */
@@ -142,3 +143,5 @@ h3 {
 .header-btn {
 	margin-top: 40px;
 }
+
+/* Video-section */
