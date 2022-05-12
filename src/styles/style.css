@@ -145,6 +145,9 @@ h3 {
 }
 
 /* Video-section */
+.video-section {
+    background-color: var(--white);
+}
 .center {
     text-align: center;
 }
@@ -155,7 +158,6 @@ h3 {
 
 .p-100 {
     padding-top: 100px;
-    padding-bottom: 100px;
 }
 
 .p-30 {
