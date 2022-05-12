@@ -61,7 +61,7 @@ h3 {
 
 .header {
   position: relative;
-  height: 914px;
+  /* height: 914px; */
 }
 
 .image-bg::before {
