@@ -1,4 +1,5 @@
 * {
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
 }
@@ -163,4 +164,63 @@ h3 {
 
 .p-30 {
     padding-bottom: 30px;
+}
+
+/* Navigation */
+.nav-bg {
+    background-color: var(--basic-dark);
+}
+
+.nav-text-orange {
+    color: var(--main);
+}
+
+.nav-text-white {
+    color: var(--white);
+}
+
+.main-card-title {
+    font-size: 52px;
+}
+
+.p-200 {
+    padding-top: 200px;
+    padding-bottom: 100px;
+}
+
+.card {
+    text-decoration: none;
+}
+
+.navigation-inner {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 30px;
+    row-gap: 20px;
+}
+
+.card {
+    flex-basis: 350px;
+}
+
+.card-link {
+    padding: 24px;
+    background-color: var(--white);
+}
+
+.card-number {
+    font-size: 64px;
+    font-family: Neucha;
+    line-height: 1;
+    padding-bottom: 40px;
+    color: var(--basic-dark);
+}
+
+.card-title {
+    padding-bottom: 16px;
+    color: var(--main);
+}
+
+.card-text {
+    color: var(--dark);
 }
