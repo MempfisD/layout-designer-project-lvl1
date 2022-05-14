@@ -208,6 +208,24 @@ h3 {
     background-color: var(--white);
 }
 
+.card-link:hover  {
+    color: var(--white);
+    background-color: var(--main);
+}
+
+.card-link:hover .card-number {
+    color: var(--white);;
+}
+
+.card-link:hover .card-title {
+    color: var(--white);
+}
+
+.card-link:hover .card-text {
+    color: var(--white);
+}
+
+
 .card-number {
     font-size: 64px;
     font-family: Neucha;
