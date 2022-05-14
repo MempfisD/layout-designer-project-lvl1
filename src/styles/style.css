@@ -207,7 +207,7 @@ h3 {
 
 .card-link {
     padding: 24px;
-    background-color: var(--white);
+    background-color: var(--bright);
 }
 
 .card-link:hover  {
